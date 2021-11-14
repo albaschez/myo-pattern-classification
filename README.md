@@ -1,6 +1,6 @@
 # myo-pattern-classification
 
-Código de Autofrabricantes para el proyecto myo
+Código de Autofrabricantes para el proyecto MYO.
 
 Instalar Anaconda
 
