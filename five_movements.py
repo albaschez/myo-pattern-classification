@@ -94,7 +94,7 @@ def restart_process():
     print("Process started")
     return True
 
-# This is Myo-python SDK’s listener that listens to EMG signal
+# This is Myo-python SDK's listener that listens to EMG signal
 class Listener(myo.DeviceListener):
     def __init__(self, n):
         self.n = n

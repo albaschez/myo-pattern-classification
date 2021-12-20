@@ -12,9 +12,9 @@ Pasos:
 2.  Añadir conda forge a la lista de canales
     $ conda config --add channels conda-forge
 3.  Creamos en el entorno virtual
-    $ conda create --name MYO_ENV python=3.8
+    $ conda create --name MYO_ENV python=3.9
 4.  Lo activamos
-    $ conda activate HR_ENV
+    $ conda activate MYO_ENV
 5.  Instalamos las dependencias
     $ pip install -r dependencias_def.txt
 6.  Comprobamos que estan instaladas
